@@ -8,7 +8,7 @@ const Layout = () => {
 
     return (
     <div className="App">
-          <Header title= 'React Blog' />
+          <Header title= 'React Blog on github' />
           <Nav />
           <Outlet 
         />
